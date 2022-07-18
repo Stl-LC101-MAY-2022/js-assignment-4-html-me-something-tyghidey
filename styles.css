@@ -1,1 +1,307 @@
-/* Write your CSS here! */
+/* Write your CSS here! */body {
+    position: relative;
+    width: 1512px;
+    height: 5006px;
+  
+    background: #202124;
+  }
+  
+  #mainHeading {
+    color: red;
+    position: absolute;
+    width: 639px;
+    height: 90px;
+    left: 463px;
+    top: 99px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 90px;
+  }
+  
+  .sectionOne {
+    position: absolute;
+    width: 1188px;
+    height: 810px;
+    left: 189px;
+    top: 189px;
+  }
+  
+  .food {
+    position: absolute;
+    width: 697px;
+    height: 613px;
+    left: 439px;
+    top: 146px;
+    border-radius: 269px;
+  }
+  
+  .greet {
+    position: absolute;
+    width: 360px;
+    height: 48px;
+    left: 11px;
+    top: 357px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 48px;
+  
+    color: #ffffff;
+  }
+  
+  .terri {
+    position: absolute;
+    width: 201px;
+    height: 132px;
+    left: 11px;
+    top: 405px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 88px;
+    line-height: 132px;
+  
+    color: #ffa688;
+  }
+  
+  .sectionTwo {
+    position: absolute;
+    width: 1289px;
+    height: 820px;
+    left: 86px;
+    top: 1111px;
+  }
+  
+  .bikeHeading {
+    position: absolute;
+    width: 572px;
+    height: 120px;
+    left: 641px;
+    top: 24px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+  
+    color: #ffffff;
+  }
+  
+  #testP {
+    position: absolute;
+    width: 497px;
+    height: 466px;
+    left: 641px;
+    top: 211px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+  
+    color: #ffffff;
+  }
+  
+  .bike {
+    position: absolute;
+    width: 496px;
+    height: 783px;
+    left: 22px;
+    top: 0px;
+  
+    background: url(bike.jpg);
+    border-radius: 287px;
+  }
+  
+  .sectionThree {
+    position: absolute;
+    width: 1289px;
+    height: 820px;
+    left: 86px;
+    top: 1894px;
+  }
+  
+  .costaRicaHeading {
+    position: absolute;
+    width: 572px;
+    height: 122px;
+    left: 49px;
+    top: 69px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+  
+    color: #ffffff;
+  }
+  
+  .costaRicaParagraph {
+    position: absolute;
+    width: 497px;
+    height: 354px;
+    left: 49px;
+    top: 254px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+  
+    color: #ffffff;
+  }
+  
+  .redSnapper {
+    position: absolute;
+    width: 530px;
+    height: 796px;
+    left: 645px;
+    top: 24px;
+  
+    background: url(solo.jpg);
+    border-radius: 265px;
+  }
+  
+  .sectionFour {
+    position: absolute;
+    width: 1289px;
+    height: 820px;
+    left: 86px;
+    top: 2933px;
+  }
+  
+  .didYouKnow {
+    position: absolute;
+    width: 572px;
+    height: 195px;
+    left: 619px;
+    top: 24px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+  
+    color: #ffffff;
+  }
+  
+  .didYouKnowParagraph {
+    position: absolute;
+    width: 497px;
+    height: 481px;
+    left: 619px;
+    top: 254px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+  
+    color: #ffffff;
+  }
+  
+  .solo {
+    position: absolute;
+    width: 530px;
+    height: 796px;
+    left: 0px;
+    top: 24px;
+  
+    background: url(solo.jpg);
+    border-radius: 265px;
+  }
+  
+  .sectionFive {
+    position: absolute;
+    width: 1289px;
+    height: 820px;
+    left: 86px;
+    top: 3810px;
+  }
+  
+  .daGram {
+    position: absolute;
+    width: 572px;
+    height: 122px;
+    left: 49px;
+    top: 69px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+  
+    color: #ffffff;
+  }
+  
+  .foolMe {
+    position: absolute;
+    width: 497px;
+    height: 481px;
+    left: 49px;
+    top: 169px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+  
+    color: #ffffff;
+  }
+  
+  .friends {
+    position: absolute;
+    width: 484px;
+    height: 751px;
+    left: 681px;
+    top: 15px;
+  
+    background: url(friends.jpg);
+    border-radius: 242px;
+  }
+  
+  .funParagraph {
+    position: absolute;
+    width: 331px;
+    height: 90px;
+    left: 622px;
+    top: 4721px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 90px;
+  
+    color: #ffffff;
+  }
+  footer {
+    position: absolute;
+    width: 72px;
+    height: 36px;
+    left: 731px;
+    top: 4949px;
+  
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+  
+    color: #ffffff;
+  }
+  
