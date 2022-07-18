@@ -1,4 +1,7 @@
-/* Write your CSS here! */body {
+body {
+  margin:8px;
+  padding: 8px;
+
     position: relative;
     width: 1512px;
     height: 5006px;
@@ -107,7 +110,7 @@
     font-size: 22px;
     line-height: 33px;
   
-    color: #ffffff;
+    color: green;
   }
   
   .bike {
